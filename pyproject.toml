@@ -4,6 +4,7 @@ version = "0.1.0"
 description = ""
 authors = ["aaronchenwei"]
 readme = "README.md"
+# packages = [{include = "conda_poetry_boilerplate"}]
 
 [tool.poetry.dependencies]
 python = "~3.11"
