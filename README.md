@@ -1,4 +1,4 @@
-# conda_poetry_boilerplate <!-- omit in toc -->
+# conda-poetry-boilerplate <!-- omit in toc -->
 
 This repos is inspired by a [stackoverflow thread](https://stackoverflow.com/questions/70851048/does-it-make-sense-to-use-conda-poetry).
 
