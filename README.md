@@ -37,7 +37,7 @@ $ conda activate /tmp/bootstrap
 # Create Conda lock file(s) from environment.yml
 $ conda-lock -k explicit --conda mamba
 # Set up Poetry
-$ poetry init --python=~3.11  --dev-dependency conda-lock # version spec should match the one from environment.yml
+$ poetry init --python=~3.11 # version spec should match the one from environment.yml
 # Add conda-lock (and other packages, as needed) to pyproject.toml and poetry.lock
 $ poetry add --lock conda-lock --group dev
 
